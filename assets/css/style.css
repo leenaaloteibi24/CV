@@ -613,7 +613,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #320dd7;
+  color: #100f19;
 }
 
 .about .content p:last-child {
@@ -1287,5 +1287,5 @@ section {
 }
 
 #footer .credits a {
-  color: #34447a;
+  color: #0b5394;
 }
